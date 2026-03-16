@@ -54,22 +54,6 @@ const PROJECTS: VideoProject[] = [
             goal: "Giới thiệu được môi trường của công ty.",
         },
     },
-    {
-        id: "4",
-        title: "Học CNTT tuy máy móc nhưng tâm hồn lại rất mộng mơ",
-        category: "Experimental",
-            thumbnail: "/source/thumbnail_experimental.png",
-        embedUrl: "https://www.tiktok.com/@lekimnam2809",
-        duration: "0:50",
-        platform: "TikTok",
-        description: "Đây là trang TikTok cá nhân hiện tại của em. Là nơi em gửi gắm những bức ảnh đẹp mà em chụp được đến thế giới xung quanh.",
-        analysis: {
-            idea: "Xây dựng 1 kênh tiktok với những hình ảnh đẹp về thành phố Đà Nẵng và cuộc sống bình dị nơi đây.",
-            hook: "Góc nhìn: hình ảnh thành phố Đà Nẵng xinh đẹp với thiên nhiên, núi rừng và con người.",
-            format: "Kể chuyện theo góc nhìn cá nhân (Vlog style) + Các bản nhạc không lời và hợp tâm trạng khi xem ảnh.",
-            goal: "Tạo ra sự gần gũi dễ hiểu và đồng cảm về cảm xúc và tâm trạng của người xem.",
-        },
-    },
 ];
 
 export function VideoShowcase() {
