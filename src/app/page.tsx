@@ -48,7 +48,7 @@ export default function Home() {
           >
             Lê Kim Nam
             <span className="block mt-2 bg-linear-to-r from-primary via-secondary to-accent bg-clip-text text-transparent pb-2">
-              Content Editor
+              Content Creator
             </span>
           </motion.h1>
 

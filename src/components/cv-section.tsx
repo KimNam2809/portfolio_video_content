@@ -233,7 +233,7 @@ export function CVSection() {
                                     Lê Kim Nam
                                 </h1>
                                 <p className="mt-2 text-lg font-semibold text-violet-200 tracking-wide">
-                                    Content Editor
+                                    Content Creator
                                 </p>
                             </div>
 
